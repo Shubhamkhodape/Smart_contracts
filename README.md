@@ -1,5 +1,5 @@
 # Flutter application with smart contract
-   we will be learning how to start Blockchain applications with Flutter.
+ 
 
 ## Objective
    To understand steps for initializing this project.
